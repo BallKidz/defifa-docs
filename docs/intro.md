@@ -5,11 +5,17 @@ slug: /
 
 # What is Defifa
 
-Defifa is a dynamic arcade-like protocol that empowers individuals to unleash their creativity by creating a diverse range of 'money games'. These games can be anything from sports betting to prediction markets, and are self-refereed by the players themselves. Defifa is built atop the Juicebox protocol, and is governed by the $DEFIFA token.
+[Defifa](https://www.defifa.net) is a dynamic arcade-like protocol that empowers individuals to unleash their creativity by creating a diverse range of 'money games'. These games can be anything from sports betting to prediction markets, and are self-refereed by the players themselves. Defifa is built atop the Juicebox protocol, and is governed by the $DEFIFA token.
 
 \*\*INSERT explainer video here\*\*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kh6OyZU6fEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## How does it work?
+
+Defifa allows anyone to create an on-chain prediction game for sports, elections, world events, or anything else. A game's creator represents different predictions as NFTs – people buy those NFTs to load a shared pot, and the people who minted the right NFTs get more of the pot when the game is finished.
+
+Which NFTs are "right" is decided by on-chain voting. Once a game finishes, anyone can submit scores to determine how much of the pot will go to the NFTs for each prediction. At least 50% of the NFTs for at least 50% of the predictions have to approve a set of scores – otherwise, people can reclaim their ETH from the pot.
 
 ## What are money games?
 
