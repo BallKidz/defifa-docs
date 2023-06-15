@@ -5,5 +5,4 @@ slug: /playersguide
 
 # Players Guide
 
-image idea placeholder
-![My Image](/img/game_scoring.png)
+How it works content here(?) or own page
